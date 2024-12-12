@@ -23,18 +23,10 @@ Due to licensing restrictions, the dataset cannot be shared directly in this rep
 ## 📊 Results
 
 ### Mean Absolute Error (MAE)
-- **Combined Model (2.41)**:c
-  ![Combined Model MAE](Results/MAE_Combined.png)
-- **Female-Specific Model (2.47)**:
-  ![Female Model MAE](Results/MAE_Female.png)
-- **Male-Specific Model (2.63)**:
-  ![Male Model MAE](Results/MAE_Male.png)
+- Combined Model: **2.41**
+- Female-Specific Model: **2.47**
+- Male-Specific Model: **2.63**
 
 ### Grad-CAM Visualizations
-- **Combined Model**:
-  ![Combined Model Grad-CAM](Results/Grad_Cam_Combined.png)
-- **Female-Specific Model**:
-  ![Female Model Grad-CAM](Results/Grad_Cam_Female.png)
-- **Male-Specific Model**:
-  ![Male Model Grad-CAM](Results/Grad_Cam_Male.png)
+The Grad-CAM visualizations highlight the brain regions that contributed most to the model's predictions. Separate visualizations are provided for the combined, female-specific, and male-specific models. Refer to the `Results` folder for detailed outputs.
 
