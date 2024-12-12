@@ -23,18 +23,18 @@ Due to licensing restrictions, the dataset cannot be shared directly in this rep
 ## 📊 Results
 
 ### Mean Absolute Error (MAE)
-- **Combined Model (2.41)**:
-  ![Combined Model MAE](Results/mae_combined.png)
+- **Combined Model (2.41)**:c
+  ![Combined Model MAE](Results/MAE_Combined.png)
 - **Female-Specific Model (2.47)**:
-  ![Female Model MAE](Results/mae_female.png)
+  ![Female Model MAE](Results/MAE_Female.png)
 - **Male-Specific Model (2.63)**:
-  ![Male Model MAE](Results/mae_male.png)
+  ![Male Model MAE](Results/MAE_Male.png)
 
 ### Grad-CAM Visualizations
 - **Combined Model**:
-  ![Combined Model Grad-CAM](Results/grad_cam_combined.png)
+  ![Combined Model Grad-CAM](Results/Grad_Cam_Combined.png)
 - **Female-Specific Model**:
-  ![Female Model Grad-CAM](Results/grad_cam_female.png)
+  ![Female Model Grad-CAM](Results/Grad_Cam_Female.png)
 - **Male-Specific Model**:
-  ![Male Model Grad-CAM](Results/grad_cam_male.png)
+  ![Male Model Grad-CAM](Results/Grad_Cam_Male.png)
 
