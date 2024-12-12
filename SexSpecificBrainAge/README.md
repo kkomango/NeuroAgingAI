@@ -16,8 +16,8 @@ Due to licensing restrictions, the dataset cannot be shared directly in this rep
 ## 🛠️ How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/SexSpecificBrainAgePrediction.git
-   cd SexSpecificBrainAgePrediction
+   git clone https://github.com/yourusername/SexSpecificBrainAge.git
+   cd SexSpecificBrainAge
 
 
 ## 📊 Results
