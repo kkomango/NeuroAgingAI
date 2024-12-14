@@ -9,7 +9,7 @@ This folder contains research on brain aging simulation using conditional GANs (
 ## How to Use
 1. Open the `.ipynb` files in Jupyter Notebook.
 2. Follow the instructions for data loading, training, and visualization.
-3. View the simulated aging results and Grad-CAM visualizations.
+3. View the simulated aging results.
 
 ## Results
 The results of the simulations and visualizations are stored in the `Results` folder.
