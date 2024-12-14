@@ -3,8 +3,8 @@
 This folder contains research on brain aging simulation using conditional GANs (cGAN). The study focuses on generating age-progressed brain images based on gender and age conditions.
 
 ## 📂 Files
-- `cGAN_BrainAging.ipynb`: Conditional GAN training and brain aging simulation.
-- `Grad_CAM_Analysis.ipynb`: Grad-CAM analysis for visualizing important regions.
+- `Generative_Brain_Aging.ipynb`: Conditional GAN training for brain aging simulation, including visualization of age-progressed brain images.
+
 
 ## How to Use
 1. Open the `.ipynb` files in Jupyter Notebook.
